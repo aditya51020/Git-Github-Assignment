@@ -1,4 +1,4 @@
-# Async-JS-Browser-API-Window
+# Git & Github Assignment
 
 ## 1. Explain what version control is and its importance in software development.
 *Version control is a system that tracks changes to a set of files over time. It allows developers to see
@@ -32,7 +32,7 @@ they can easily restore the file or revert to a previous version of the code.*
 
 **Repository-** *The repository, also known as the Git repository or Git database, is where Git permanently stores committed snapshots of your project. It contains the complete history of changes, branches, tags, and other Git-related data.*
 
-## 3. Explain what .gi1ignore is and why it’s important in version control.
+## 3. Explain what .gitignore is and why it’s important in version control.
 
 *A .gitignore file is used in Git to specify files and directories that should be ignored by Git, meaning they won't be tracked or included in commits. It's important in version control to keep unnecessary or sensitive files, like build artifacts, temporary files, or configuration files, out of the repository, ensuring a cleaner and more manageable codebase.*
 *This helps prevent clutter and potential security risks in the repository, keeping the version history clean and relevant to the project's source code.*
